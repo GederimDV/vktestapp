@@ -1,0 +1,19 @@
+/*.Persik {
+  display: block;
+  width: 30%;
+  max-width: 240px;
+  margin: 20px auto;
+}*/
+
+.hw {
+	font-size: 70px;
+	display: block;
+	text-align: center;
+	margin: auto;
+	color: #ffb400;
+}
+.fox {
+	display: block;
+	text-align: center;
+	margin: auto;
+}
